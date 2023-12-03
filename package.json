@@ -1,0 +1,23 @@
+{
+  "name": "wui-plus",
+  "version": "1.0.0",
+  "description": "A simple Vue3 + TypeScript components library",
+  "main": "index.js",
+  "scripts": {
+    "dev": "pnpm -C examples dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vue/tsconfig": "^0.4.0",
+    "sass": "^1.69.5",
+    "typescript": "^5.3.2"
+  },
+  "dependencies": {
+    "@wui-plus/components": "workspace:^",
+    "@wui-plus/theme-chalk": "workspace:^",
+    "@wui-plus/utils": "workspace:^",
+    "vue": "^3.3.4"
+  }
+}

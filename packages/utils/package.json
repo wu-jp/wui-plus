@@ -1,0 +1,11 @@
+{
+  "name": "@wui-plus/utils",
+  "version": "1.0.0",
+  "description": "this is utils for wui-plus",
+  "main": "index.ts",
+  "types": "types.d.ts",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,5 @@
+node_modules
+# 打包后的代码
+dist
+# 测试覆盖率报告文件
+coverage
