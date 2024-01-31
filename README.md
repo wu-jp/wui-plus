@@ -1,3 +1,3 @@
 # WUI-PLUS
 
-wuyi的ui组件库
+wuyi的ui组件库。
